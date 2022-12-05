@@ -1,0 +1,8 @@
+github link cookiecutter:
+link1:
+https://github.com/cookiecutter/cookiecutter
+link2:
+https://github.com/audreyfeldroy/cookiecutter-pypackage
+
+pip install cookiecutter
+cookiecutter https://github.com/audreyfeldroy/cookiecutter-pypackage.git
