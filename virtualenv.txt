@@ -1,0 +1,7 @@
+#command:
+
+1. Create virtual python env completely empty
+vitrualenv venv
+
+2. Activate this enviroment
+source/venv/Scripts/activate
